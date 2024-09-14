@@ -1,0 +1,19 @@
+{
+  "id": "xpc-hexa-elemental-robe",
+  "version": "1.0.0",
+  "title": "XPC - Elemental Robe \\i[class-hexa]",
+  "description": {
+    "en_US": "Extends the Elemental Hair mod to apply to XPC Hexacasts."
+  },
+  "repository": "https://github.com/XenonA7/xpc-hexa-elemental-robe",
+  "tags": ["cosmetic"],
+  "authors": ["Azure Lazuline", "XenonA7"],
+  "icons": {
+    "24": "icon24.png"
+  },
+  "prestart": "_prestart.js",
+  "dependencies": {
+	"element-hair": ">=1.0.0",
+	"xenons-playable-classes": ">=1.0.0"
+  }
+}
