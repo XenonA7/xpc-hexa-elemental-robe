@@ -1,6 +1,8 @@
 # Hexacast Elemental Robe
 
->**Note:** This mod is depreciated. Only for Elemental hair versions 1.0.X!
+>**Note:** This mod is depreciated. Only for Elemental Hair versions 1.0.X!
+>
+>This functionality is included by default in Elemental Hair 1.1.0 and newer.
 
 Extends Azure's Elemental Hair mod to work with Hexacast1 and Hexacast2 from XPC. Robe color will change with your element.
 
